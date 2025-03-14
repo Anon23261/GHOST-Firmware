@@ -1,9 +1,9 @@
 #include <M5StickCPlus.h>
-#include "src/config.h"
-#include "src/utils.h"
-#include "src/display.h"
-#include "src/sensors.h"
-#include "src/communication.h"
+#include "config.h"
+#include "utils.h"
+#include "display.h"
+#include "sensors.h"
+#include "communication.h"
 
 void setup() {
     M5.begin();
